@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/InsideADM/InsideADM/main/assets/adm-logo.png"
        width="140"
+       height="140"
+       style="border-radius:50%;"
        alt="ADM Logo"/>
 </p>
 
@@ -11,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+modern+software+products;Creating+smart+digital+systems;Apps.+Tools.+Systems.;Powered+by+iBT+Labs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=24&duration=3200&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+modern+software+products;Creating+smart+digital+systems;Apps.+Tools.+Systems.;Powered+by+iBT+Labs" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -93,13 +95,6 @@ Built to create more connected workflows and reduce interruptions between experi
   <img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase" />
 </p>
 
-**Current storage systems**
-```text
-MongoDB
-SQLite
-JSON Storage
-Firebase (Future)
-```
 
 ---
 
