@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/insideADM/insideADM/main/assets/adm-logo.png"
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/main/assets/adm-logo.png"
        width="140"
-       height="140"
-       style="border-radius:50%;"
        alt="ADM Logo"/>
 </p>
 
@@ -17,26 +15,9 @@
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Kotlin-121212?style=for-the-badge&logo=kotlin" />
-<img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript" />
-<img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5" />
-<img src="https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3" />
-<img src="https://img.shields.io/badge/JSON-121212?style=for-the-badge&logo=json" />
-<img src="https://img.shields.io/badge/Bash-121212?style=for-the-badge&logo=gnubash" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/Express.js-121212?style=for-the-badge&logo=express" />
-<img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/AndroidIDE-121212?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Render-121212?style=for-the-badge&logo=render" />
-
+  <img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/YOUR-USERNAME?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/YOUR-USERNAME/adm-link-hub?style=for-the-badge" />
 </p>
 
 ---
@@ -91,30 +72,28 @@ Built to create more connected workflows and reduce interruptions between experi
 
 ### Languages
 
-```text
-Kotlin
-JavaScript
-TypeScript
-Python
-HTML
-CSS
-JSON
-Bash
-```
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,js,ts,python,html,css,bash" />
+</p>
 
 ### Frameworks & Tools
 
-```text
-Node.js
-Express.js
-AndroidIDE
-Git
-GitHub
-Render
-```
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,git,github,firebase,mongodb" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AndroidIDE-121212?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Render-121212?style=for-the-badge&logo=render" />
+</p>
 
 ### Databases
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase" />
+</p>
+
+**Current storage systems**
 ```text
 MongoDB
 SQLite
@@ -125,8 +104,6 @@ Firebase (Future)
 ---
 
 ## Development Philosophy
-
-Every ADM product follows the same principles.
 
 ### Simplicity
 Complex technology should feel simple.
