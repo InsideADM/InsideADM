@@ -135,10 +135,6 @@ Technology should feel modern, practical, and reliable.
   <a href="https://adm-link-hub.onrender.com">
     <img src="https://img.shields.io/badge/Website-ADM%20Link%20Hub-121212?style=for-the-badge&logo=render&logoColor=white" />
   </a>
-
-  <a href="https://adm-link-hub.onrender.com">
-    <img src="https://img.shields.io/badge/Powered%20by-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-  </a>
 </p>
 
 ---
