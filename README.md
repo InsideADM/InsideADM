@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/main/assets/adm-logo.png"
+  <img src="https://raw.githubusercontent.com/InsideADM/InsideADM/main/assets/adm-logo.png"
        width="140"
        alt="ADM Logo"/>
 </p>
@@ -11,13 +11,13 @@
 </p>
 
 <p align="center">
-  Building modern software products, intelligent utilities, and smart digital systems.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+modern+software+products;Creating+smart+digital+systems;Apps.+Tools.+Systems.;Powered+by+iBT+Labs" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/YOUR-USERNAME?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/YOUR-USERNAME/adm-link-hub?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/InsideADM?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/InsideADM/adm-link-hub?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/InsideADM/adm-link-hub?style=for-the-badge" />
 </p>
 
 ---
