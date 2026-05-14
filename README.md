@@ -9,10 +9,6 @@
 <h1 align="center">ADM</h1>
 
 <p align="center">
-  <strong>Apps. Tools. Systems.</strong>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=24&duration=3200&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+modern+software+products;Creating+smart+digital+systems;Apps.+Tools.+Systems.;Powered+by+iBT+Labs" alt="Typing SVG" />
 </p>
 
@@ -136,11 +132,19 @@ Technology should feel modern, practical, and reliable.
 
 ## Connect
 
-**YouTube**  
-ADM Official / @InsideADM
+<p align="left">
+  <a href="https://www.youtube.com/@InsideADM">
+    <img src="https://img.shields.io/badge/YouTube-ADM%20Official-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 
-**Website**  
-https://adm-link-hub.onrender.com
+  <a href="https://adm-link-hub.onrender.com">
+    <img src="https://img.shields.io/badge/Website-ADM%20Link%20Hub-121212?style=for-the-badge&logo=render&logoColor=white" />
+  </a>
+
+  <a href="https://adm-link-hub.onrender.com">
+    <img src="https://img.shields.io/badge/Powered%20by-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  </a>
+</p>
 
 ---
 
