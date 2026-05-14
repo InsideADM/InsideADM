@@ -77,12 +77,7 @@ Built to create more connected workflows and reduce interruptions between experi
 ### Frameworks & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,git,github,firebase,mongodb" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AndroidIDE-121212?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Render-121212?style=for-the-badge&logo=render" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,git,github,firebase,mongodb,androidstudio" />
 </p>
 
 ### Databases
