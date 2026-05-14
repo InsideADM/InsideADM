@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/InsideADM/insideADM/main/assets/adm-logo.png" width="120" alt="ADM Logo"/>
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/main/assets/adm-logo.png"
+       width="140"
+       height="140"
+       style="border-radius:50%;"
+       alt="ADM Logo"/>
 </p>
 
 <h1 align="center">ADM</h1>
@@ -13,11 +17,26 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-121212?style=for-the-badge&logo=kotlin" />
-  <img src="https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Render-121212?style=for-the-badge&logo=render" />
+
+<img src="https://img.shields.io/badge/Kotlin-121212?style=for-the-badge&logo=kotlin" />
+<img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3" />
+<img src="https://img.shields.io/badge/JSON-121212?style=for-the-badge&logo=json" />
+<img src="https://img.shields.io/badge/Bash-121212?style=for-the-badge&logo=gnubash" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/Express.js-121212?style=for-the-badge&logo=express" />
+<img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/AndroidIDE-121212?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Render-121212?style=for-the-badge&logo=render" />
+
 </p>
 
 ---
@@ -28,7 +47,7 @@ ADM is a modern technology ecosystem focused on building software products, inte
 
 ADM is not a single application.
 
-It is a growing software ecosystem designed to support multiple products under one unified vision.
+It is a growing software ecosystem designed to support multiple software experiences under one unified vision.
 
 ### Mission
 
@@ -79,6 +98,8 @@ TypeScript
 Python
 HTML
 CSS
+JSON
+Bash
 ```
 
 ### Frameworks & Tools
