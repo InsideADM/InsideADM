@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/main/assets/adm-logo.png" width="120" alt="ADM Logo"/>
+  <img src="https://raw.githubusercontent.com/InsideADM/insideADM/main/assets/adm-logo.png" width="120" alt="ADM Logo"/>
 </p>
 
 <h1 align="center">ADM</h1>
