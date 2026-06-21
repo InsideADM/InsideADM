@@ -139,6 +139,9 @@ Technology should feel modern, practical, and reliable.
 
 ---
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=InsideADM&theme=nightowl" alt="InsideADM" /></p>
+</details> </div>
+
 <p align="center">
   <strong>Built by Bravo</strong><br/>
   Powered by iBT Labs
